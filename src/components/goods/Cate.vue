@@ -48,6 +48,7 @@
           <el-tag type="warning" size="mini" v-else>三级</el-tag>
         </template>
         <!-- 操作列 -->
+        <!-- eslint-disable-next-line vue/no-unused-vars -->
         <template slot="opt" slot-scope="scope">
           <el-button type="primary" icon="el-icon-edit" size="mini"
             >编辑</el-button

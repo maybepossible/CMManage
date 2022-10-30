@@ -28,3 +28,6 @@ body,
 .el-cascader-panel {
   height: 300px;
 }
+.el-tag {
+  margin: 10px;
+}
